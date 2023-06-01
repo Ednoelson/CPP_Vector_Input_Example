@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
 }
 
 /*
-This small example in C language declares an integer array called "v" with a capacity to store 5 elements. Then, it assigns values to each element of the array as follows:
+This small example in C++ language declares an integer array called "v" with a capacity to store 5 elements. Then, it assigns values to each element of the array as follows:
 
 v[0] receives the value 10.
 v[1] receives the value 3.
